@@ -51,11 +51,17 @@ p {
 .login-btn {
     background-color: #4caf50;
     color: white;
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+    padding: 10px 30px;
+   
+
+    color: white;
+    background-color: transparent;
+    border: 2px solid crimson;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-top: 30px;
+
 }
 
 
@@ -107,7 +113,7 @@ p {
 
 .cta {
     display: inline-block;
-    padding: 10px 30px;
+    padding: 5px 3px;
     color: white;
     background-color: transparent;
     border: 2px solid crimson;
